@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Desktop-landing-preview.png.jpg)
+![](images/Desktop-landing-preview.png)
 ![](images/Desktop-thank-you-preview.png)
 ![](images/Mobile-landing-preview.png)
 ![](images/Mobile-thank-you-preview.png)
