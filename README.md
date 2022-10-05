@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Raunak40/Interactive_Rating_Site)
+- Live Site URL: [whimsical-kelpie-eaa838](https://whimsical-kelpie-eaa838.netlify.app)
 
 ## My process
 
@@ -62,6 +62,6 @@ The working of this site is not very efficient and it could break very easily at
 
 ## Author
 
-- Website - [Rauank Raj](https://www.your-site.com)
+- Website - [Rauank Raj](https://whimsical-kelpie-eaa838.netlify.app)
 - Frontend Mentor - [@Raunak40](https://www.frontendmentor.io/profile/Raunak40)
 
